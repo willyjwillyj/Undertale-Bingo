@@ -1,0 +1,90 @@
+3 Get All Neutral Dates (Papyrus, Sansx2)
+2 Get Both Sans Dates
+2 Date Papyrus
+2 Date Sans in Snowdin
+2 Date Sans in Hotland
+3 Date Undyne
+1 Get Smell Text
+2 Get Dog Salad
+1 Have a Full Inventory
+3 Equip Every Armor (Excluding Temmie Armor)
+3 Equip Every Weapon
+3 Use Every Weapon
+1 Equip Faded Ribbon
+1 Equip Manly Bandana
+1 Equip Old Tutu
+2 Equip Cloudy Glasses
+1 Equip Stained Apron
+2 Equip Cowboy Hat
+2 Equip Heart Locket/The Locket
+3 Equip Temmie Armor
+2 Equip Toy Knife
+1 Equip Tough Glove
+1 Equip Ballet Shoes
+2 Equip Torn Notebook
+1 Equip Burnt Pan
+2 Equip Empty Gun
+2 Equip Worn Dagger/Real Knife
+1 Get a Hot Cat
+1 Get the Hush Puppy
+2 Kill One of Each Encounterable Ruins Enemy
+2 Kill One of Each Encounterable Snowdin Enemy
+1 Kill One of Each Encounterable Waterfall Enemy
+1 Kill One of Each Encounterable Hotland Enemy
+2 Kill One of Each Encounterable Core Enemy
+1 Get All Yellow Credits in Ruins
+2 Get All Yellow Credits in Snowdin
+2 Get All Yellow Credits in Waterfall
+3 Get All Yellow Credits in Hotland/Core
+1 Solve all Shooting Puzzles in Hotland
+2 Fill a Dimensional Box With Cinnabun
+2 Fill a Dimensional Box With Bicicle
+2 Fill a Dimensional Box With Unicicle
+2 Fill a Dimensional Box With Nice Cream
+2 Fill a Dimensional Box With Punch Card
+2 Fill a Dimensional Box With Sea Tea
+2 Fill a Dimensional Box With Crab Apple
+2 Fill a Dimensional Box With Tem Flake
+2 Fill a Dimensional Box With Dog Residue
+2 Fill a Dimensional Box With Dog Salad
+2 Fill a Dimensional Box With Cloudy Glasses
+1 Kill Jerry
+3 Hit a Gun Quad
+2 Ride the Bird in Waterfall
+1 Ride the Purple Dude
+2 Temmie College
+2 Kill Napstablook
+1 Kill Toriel
+3 Kill Glyde
+2 Kill All dog enemies in snowdin
+2 Kill Shyren
+2 Kill Undyne
+3 Kill So Sorry
+2 Kill RG 01 and 02
+3 Kill Muffet
+2 Kill Mettaton EX
+1 Softlock
+2 Crash the Game
+2 Finish the Mad Dummy Fight
+3 Finish the Muffet Fight
+3 Finish the Mettaton Ex Fight
+2 Finish the Quiz Minigame
+2 Finish the Jetpack Minigame
+2 Finish the News Minigame
+2 Finish the Color Tile Puzzle Minigame
+2 Die to 4 Main Bosses [Toriel (getting to 2hp counts), Papyrus (dog house counts), Undyne, Mettaton]
+2 Exhaust Kill Count in Ruins
+2 Exhaust Kill Count in Snowdin
+3 Exhaust Kill Count in Waterfall
+3 Exhaust Kill Count in Hotland/Core
+2 Die to Spears 1 / 2
+1 Die to Core Lasers
+1 Eat Each Consumable Found in Ruins (Excluding Snail Pie)
+2 Eat Each Consumable Found in Waterfall
+3 Eat Each Consumable Found in Hotland/Core
+2 Eat Each Consumable Found in Snowdin
+2 Complete Warriors Path
+2 Reach 1000G
+2 Complete the Ball Minigame
+2 Fill a Dimensional Box With Unique Items
+2 Enter Mettaton's House
