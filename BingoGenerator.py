@@ -12,13 +12,13 @@ def genBoard():
     genOutput.delete("1.0",tk.END)
     genOutput.insert(tk.END, bingo.genProcess())
 
-current_version = "v1.0.1"
+current_version = "v1.0.2"
 github_connection_success = False
 newest_version = current_version
 
 try:
     release_data = requests.get("https://api.github.com/repos/willyjwillyj/Undertale-Bingo/releases/latest")
-    newest_version =(release_data.json()["name"])
+    newest_version = (release_data.json()["name"])
 except:
     pass
 else:
@@ -47,6 +47,6 @@ else:
     genButton = tk.Button(master=root, text="Generate Bingo Board", command=genBoard)
     genOutput = tk.Text(master=root, width=40, height=20)
     genButton.grid(row=1,column=0)
-    genOutput.grid(row=2,column=0)
+    genOutput.grid(row=2,column=0, columnspan=2)
 
 root.mainloop()
